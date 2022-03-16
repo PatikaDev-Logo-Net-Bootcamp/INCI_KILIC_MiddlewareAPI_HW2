@@ -21,7 +21,6 @@ C:\Users\İNCİ KILIÇ\Source\Repos\INCI_KILIC_MiddlewareAPI_HW2\obj\Debug\net5.
 C:\Users\İNCİ KILIÇ\Source\Repos\INCI_KILIC_MiddlewareAPI_HW2\obj\Debug\net5.0\staticwebassets\INCI_KILIC_MiddlewareAPI_HW2.StaticWebAssets.xml
 C:\Users\İNCİ KILIÇ\Source\Repos\INCI_KILIC_MiddlewareAPI_HW2\obj\Debug\net5.0\scopedcss\bundle\INCI_KILIC_MiddlewareAPI_HW2.styles.css
 C:\Users\İNCİ KILIÇ\Source\Repos\INCI_KILIC_MiddlewareAPI_HW2\obj\Debug\net5.0\INCI_KILIC_MiddlewareAPI_HW2.RazorTargetAssemblyInfo.cache
-C:\Users\İNCİ KILIÇ\Source\Repos\INCI_KILIC_MiddlewareAPI_HW2\obj\Debug\net5.0\INCI_KILIC_MiddlewareAPI_HW2.csproj.CopyComplete
 C:\Users\İNCİ KILIÇ\Source\Repos\INCI_KILIC_MiddlewareAPI_HW2\obj\Debug\net5.0\INCI_KILIC_MiddlewareAPI_HW2.dll
 C:\Users\İNCİ KILIÇ\Source\Repos\INCI_KILIC_MiddlewareAPI_HW2\obj\Debug\net5.0\ref\INCI_KILIC_MiddlewareAPI_HW2.dll
 C:\Users\İNCİ KILIÇ\Source\Repos\INCI_KILIC_MiddlewareAPI_HW2\obj\Debug\net5.0\INCI_KILIC_MiddlewareAPI_HW2.pdb
