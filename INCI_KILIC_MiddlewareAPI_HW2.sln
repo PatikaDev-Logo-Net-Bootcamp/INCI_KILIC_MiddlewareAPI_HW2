@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INCI_KILIC_MiddlewareAPI_HW2", "INCI_KILIC_MiddlewareAPI_HW2.csproj", "{F7092BA5-6E77-4934-ACAB-D92935260A98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7092BA5-6E77-4934-ACAB-D92935260A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7092BA5-6E77-4934-ACAB-D92935260A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7092BA5-6E77-4934-ACAB-D92935260A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7092BA5-6E77-4934-ACAB-D92935260A98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2E10052-C45C-44C3-9494-7B7060199EDB}
+	EndGlobalSection
+EndGlobal
