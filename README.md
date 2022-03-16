@@ -6,5 +6,5 @@ https://stackoverflow.com/questions/41493130/web-api-how-to-add-a-header-paramet
 
 Endpointlerden biri Samet Hoca'nın derste bahsetmiş olduğu anotasyonda belirtilen IgnoreApi = true ile yapıldı. 
 
-/Controllers/HomeController/HomeController.cs 32. satır ----> [ApiExplorerSettings(IgnoreApi = true)]
+~/Controllers/HomeController/HomeController.cs 32. satır ----> [ApiExplorerSettings(IgnoreApi = true)]
 
